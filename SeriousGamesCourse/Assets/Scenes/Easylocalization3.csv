@@ -1,0 +1,14 @@
+Key,Description,Standard,LT,DE
+MENU.flowchart.15,,1. English,,
+MENU.flowchart.17,,2. Lithuanian,,
+MENU.flowchart.18,,3. German,,
+SAY.flowchart.2.Boy with Glasses,,"Camper 1 whilst pointing at Camper 2: ""I want to go to sleep but they wont stop talking"". ","Stovyklautojas 1, rodydamas į Stovyklautoją 2: “Noriu eiti miegoti, bet jie nenustoja kalbėti“.","Camper 1, während er auf Camper 2 zeigt: ""Ich möchte schlafen gehen, aber sie werden nicht aufhören zu reden""."
+SAY.flowchart.3.Mean Kid,,"Camper 2: ""Just because we don't want to talk to you"".","Stovyklautojas 2: “Vien todėl, kad nenorime su jumis kalbėtis“.","Camper 2: ""Nur weil wir nicht mit dir reden wollen""."
+MENU.flowchart.4,,Yell at the camper talking.,Klykti į kemperį kalbantis.,"Schreien Sie den Camper an, der spricht."
+MENU.flowchart.5,,Tell camper 2 to shut up and to stop complaining.,Liepkite kemperiui 2 užsičiaupti ir nustoti skųstis.,"Sagen Sie dem Camper 2, er soll die Klappe halten und aufhören, sich zu beschweren."
+MENU.flowchart.6,,Tell the camper if he doesn't go to sleep you will have to separate him from his friends,"Pasakykite kemperiui, jei jis neina miegoti, turėsite jį atskirti nuo draugų","Sagen Sie dem Camper, wenn er nicht schlafen geht, müssen Sie ihn von seinen Freunden trennen"
+SAY.flowchart.10.,,There is never a need to yell at your campers. You received {b}{$Score}{/b} out of {b}{$Total}{/b} points.,Niekada nereikia šaukti savo stovyklautojų. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.,"Es ist nie nötig, Ihre Camper anzuschreien. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+SAY.flowchart.19.,,No need to tell a camper to shut up. You received {b}{$Score}{/b} out of {b}{$Total}{/b} points.,Nereikia liepti kemperio užsičiaupti. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.,"Sie müssen einem Camper nicht sagen, dass er den Mund halten soll. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+SAY.flowchart.20.,,Assert your leadership figure and make sure that they listen to what you say. You received {b}{$Score}{/b} out of {b}{$Total}{/b} points.,"Patvirtinkite savo lyderio figūrą ir įsitikinkite, kad jie įsiklauso į tai, ką jūs sakote. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.","Bestätigen Sie Ihre Führungspersönlichkeit und stellen Sie sicher, dass sie auf Ihre Aussagen hört. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+CHARACTER.Boy with Glasses,,Boy with Glasses,Berniukas su akiniais,Junge mit Brille
+CHARACTER.Mean Kid,,Mean Kid,Vidutinis vaikas,Mittleres Kind

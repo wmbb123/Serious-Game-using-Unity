@@ -1,0 +1,14 @@
+Key,Description,Standard,LT,DE
+MENU.flowchart.15,,1. English,,
+MENU.flowchart.17,,2. Lithuanian,,
+MENU.flowchart.18,,3. German,,
+SAY.flowchart.2.Boy with Glasses,,"Camper 1 whilst pointing at Camper 2: ""He throw food at me"". ","Stovyklautojas 1, rodydamas į Stovyklautoją 2: “Jis mėtė man maistą“.","Camper 1, während er auf Camper 2 zeigt: ""Er wirft Essen auf mich""."
+SAY.flowchart.3.Mean Kid,,"Camper 2: ""Yeah! And I am going to do it again!"".",Stovyklautojas 2: “Taip! Ir aš tai darysiu dar kartą“.,"Camper 2: ""Ja! Und ich werde es wieder tun!""."
+MENU.flowchart.4,,Yell at the child throwing his food.,"Rėkia ant vaiko, metančio maistą.","Schreie das Kind an, das sein Essen wirft."
+MENU.flowchart.5,,Tell off camper for being childish.,"Pasakykite kemperiui, kad jis susižavėjo.","Sagen Sie dem Wohnmobil, dass es kindisch ist."
+MENU.flowchart.6,,Tell the camper if he doesn't stop throwing foods he is going to miss out activities,"Pasakykite kemperiui, jei jis nenustos mesti maisto, jis praleis veiklą.","Sagen Sie dem Camper, wenn er nicht aufhört, Lebensmittel zu werfen, wird er Aktivitäten verpassen."
+SAY.flowchart.10.,,There is never a need to yell at your campers. You recieved {b}{$Score}{/b} out of {b}{$Total}{/b} points.,Niekada nereikia šaukti savo stovyklautojų. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.,"Es ist nie nötig, Ihre Camper anzuschreien. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+SAY.flowchart.19.,,Why would you yell at the camper that doesn't want food thrown at him? . You recieved {b}{$Score}{/b} out of {b}{$Total}{/b} points.,"Kodėl šauksi ant kemperio, kuris nenori, kad į jį mėtytų maistą? Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.","Warum würdest du den Camper anschreien, der nicht will, dass Essen auf ihn geworfen wird? Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+SAY.flowchart.20.,,This is the best option to assert your authority and tell the camper what will happen if they don't stop. You recieved {b}{$Score}{/b} out of {b}{$Total}{/b} points.,"Tai yra geriausias būdas patvirtinti savo autoritetą ir pasakyti kemperiui, kas nutiks, jei jie nesustos. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.","Dies ist die beste Option, um Ihre Autorität geltend zu machen und dem Camper mitzuteilen, was passieren wird, wenn er nicht aufhört. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+CHARACTER.Mean Kid,,Mean Kid,Vidutinis vaikas,Mittleres Kind
+CHARACTER.Boy with Glasses,,Boy with Glasses,Berniukas su akiniais,Junge mit Brille

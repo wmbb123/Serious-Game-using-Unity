@@ -1,0 +1,14 @@
+Key,Description,Standard,LT,DE
+MENU.flowchart.15,,1. English,,
+MENU.flowchart.17,,2. Lithuanian,,
+MENU.flowchart.18,,3. German,,
+SAY.flowchart.2.Boy with Glasses,,"Camper 1 whilst pointing at Camper 2: ""He took 2 snacks instead of one"". ","Stovyklautojas 1, rodydamas į Stovyklautoją 2: “Jis pasiėmė 2 užkandžius, o ne vieną“.","Camper 1, während er auf Camper 2 zeigt: ""Er hat 2 Snacks statt eines genommen""."
+SAY.flowchart.3.Mean Kid,,"Camper 2: ""Don't snitch you dummy"".",Stovyklautojas 2: “Nešniuk manęs“.,"Camper 2: ""Mach dich nicht blöd""."
+MENU.flowchart.4,,Yell at the child taking 2 snacks.,"Rėkia, kai vaikas ima 2 užkandžius.","Schreien Sie das Kind an, das 2 Snacks nimmt."
+MENU.flowchart.5,,Tell off camper for snitching.,"Pasakykite kemperiui, kad jis susižavėjo.",Sagen Sie das Wohnmobil zum Schnupfen.
+MENU.flowchart.6,,Tell the camper taking 2 snacks that he won't get a snack tomorrow.,"2 užkandžius vartojančiam kemperiui pasakykite, kad rytoj jis negaus užkandžių.","Sagen Sie dem Camper, der 2 Snacks nimmt, dass er morgen keinen Snack bekommt."
+SAY.flowchart.10.,,There is never a need to yell at your campers. You recieved {b}{$Score}{/b} out of {b}{$Total}{/b} points.,Niekada nereikia šaukti savo stovyklautojų. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.,"Es ist nie nötig, Ihre Camper anzuschreien. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+SAY.flowchart.19.,,Why would you yell at the camper that is being honest? . You recieved {b}{$Score}{/b} out of {b}{$Total}{/b} points.,"Kodėl šaukėte ant kemperio, kuris yra sąžiningas? . Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.","Warum würdest du den Camper anschreien, der ehrlich ist? Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+SAY.flowchart.20.,,This is the best option to select as this shows your authority. You recieved {b}{$Score}{/b} out of {b}{$Total}{/b} points.,"Tai geriausias pasirinkimas pasirinkti, nes tai parodo jūsų autoritetą. Gavote {b}{$Score}{/b} iš {b}{$Total}{/b} taškų.","Dies ist die beste Option zur Auswahl, da dies Ihre Autorität zeigt. Sie haben {b}{$Score}{/b} von {b}{$Total}{/b} Punkten erhalten."
+CHARACTER.Mean Kid,,Mean Kid,Vidutinis vaikas,Mittleres Kind
+CHARACTER.Boy with Glasses,,Boy with Glasses,Berniukas su akiniais,Junge mit Brille
